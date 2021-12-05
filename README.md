@@ -1,4 +1,4 @@
-#minigrep
+# minigrep
 
 This is a command line program that implements the `minigrep` project from the [Rust book](https://doc.rust-lang.org/book/ch12-00-an-io-project.html).
 
@@ -23,7 +23,7 @@ For example,
 
 Note that poem.txt is included in this project.
 
-##Case-insensitive Search
+## Case-insensitive Search
 
 If you're using [PowerShell](https://docs.microsoft.com/en-us/powershell/), you can use the environment variable via the following:
 
