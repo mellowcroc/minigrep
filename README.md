@@ -32,3 +32,5 @@ If you're using [PowerShell](https://docs.microsoft.com/en-us/powershell/), you 
 Since the variable will persist for the remainder of the shell session, you can unset it via the following:
 
 `PS> Remove-Item Env:CASE_INSENSITIVE`
+
+TESTING
