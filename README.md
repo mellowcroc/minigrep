@@ -33,4 +33,4 @@ Since the variable will persist for the remainder of the shell session, you can 
 
 `PS> Remove-Item Env:CASE_INSENSITIVE`
 
-TESTING AGAIN
+TESTING AGAIN AND AGAIN
